@@ -9,9 +9,9 @@
 //Write a loop with some “if else” statements. The loop should start at 1900 and go to 1949 and always log ("happy new year! The year is now ????). You should also log if something was invented that year. For example when i = 1902 the code should log "happy new year! The year is now 1902." AND “the teddy bear is invented!”
 
 //Write a for loop that logs 0-15;
-//for (let i = 0; i < 16; i++) {
-//    console.log(i);
-//}
+for (let i = 0; i < 16; i++) {
+    console.log(i);
+}
 
 //Write a for loop that counts from 15-0
 for (let i = 15; i >= 0; i--) {
